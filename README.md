@@ -4,7 +4,11 @@
 
 Pursuing a Master's in Information System from Northeastern University
 
-🌱 Currently learning & growing in the field of Software Development and Data Science with courses like Data Structures and Algorithms, Agile Methodologies, Web Development, Data Mining, and Database Management Systems
+🌱 Currently learning & growing in the field of Product Management, Software Development and Data Science with courses like Business processing, Data Science Methodologies, Data Structures and Algorithms, Agile Methodologies, Web Development, Data Mining, Database Management Systems and so much more.
+
+Feel free to explore some projects I am working on and have worked on in the past.
+
+### Welcome!
 
 <!--
 **ebadebesin/ebadebesin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
